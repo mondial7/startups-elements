@@ -13,8 +13,8 @@ views, website, landing
 
 ## :beers::pizza: Contributors
 
-* :tada: [mondial7](https://github.com/mondial7)
-* :hammer: [second_contributor-example](https://github.com/mondial7)
+* [mondial7](https://github.com/mondial7) :tada:
+* [second_contributor-example](https://github.com/mondial7) :hammer:
 
 
 ## :heavy_plus_sign: Dependencies
