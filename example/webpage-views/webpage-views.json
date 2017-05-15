@@ -16,7 +16,7 @@
   "dependencies" : [
     {
       "label" : "website-online-status",
-      "link" : "https://github.com/mondial7/blob/master/elements/website-online-status/"
+      "link" : "https://github.com/mondial7/startups-elements/blob/master/elements/website-online-status/"
     }
 
   ],
@@ -29,7 +29,7 @@
   "related" : [
     {
       "label" : "retention-rate",
-      "link" : "https://github.com/mondial7/blob/master/elements/retention-rate/"
+      "link" : "https://github.com/mondial7/startups-elements/blob/master/elements/retention-rate/"
     }
   ]
 }

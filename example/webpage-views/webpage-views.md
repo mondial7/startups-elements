@@ -19,7 +19,7 @@ views, website, landing
 
 ## :heavy_plus_sign: Dependencies
 
-* [website-online-status](https://github.com/mondial7/blob/master/elements/website-online-status/website-online-status.md)
+* [website-online-status](https://github.com/mondial7/startups-elements/blob/master/elements/website-online-status/website-online-status.md)
 
 
 ## :books: Categories
