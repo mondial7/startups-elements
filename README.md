@@ -3,7 +3,7 @@ open source project that aims to collect and categorize startups elements, metri
 
 ## Example
 
-Check out the complete example: [Webpage Views](https://github.com/mondial7/startups-elements/example/webpage-views/webpage-views.md)
+Check out the complete example: [Webpage Views](./example/webpage-views/webpage-views.md)
 
 # WARNING
 
