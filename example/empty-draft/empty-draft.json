@@ -1,0 +1,39 @@
+{
+  "label" : "empty-draft",
+  "status" : "WIP",
+  "name" : "Webpa Views",
+  "keywords" : "a, b, c",
+  "about" : "...",
+  "contributors" : [
+    {
+      "user" : "name",
+      "link" : "http://example.com/"
+    },
+    {
+      "user" : "name2",
+      "link" : "http://example.com/"
+    },
+    {
+      "user" : "name3",
+      "link" : "http://example.com/"
+    }
+  ],
+  "dependencies" : [
+    {
+      "label" : "element-label",
+      "link" : "http://example.com/"
+    }
+  ],
+  "categories" : ["team"],
+  "stages" : ["formation"],
+  "businessmodel" : ["TBD"],
+  "casestudies" : [
+    "first story ..."
+  ],
+  "related" : [
+    {
+      "label" : "element-label",
+      "link" : "http://example.com/"
+    }
+  ]
+}
