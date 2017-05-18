@@ -73,7 +73,7 @@
   </style>
 
   <style>
-  img { filter: grayscale(1); }
+  img { filter: grayscale(1); -webkit-filter: greyscale(1); }
   </style>
 
 </head>
@@ -81,9 +81,9 @@
 
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="https://github.com/mondial7/startups-elements/" class="brand-logo">View on Github</a>
+      <a id="logo-container" href="https://github.com/mondial7/startups-elements/" class="brand-logo">Startups Elements</a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="https://github.com/mondial7/startups-elements/tree/master/elements/">Elements</a></li>
+        <li><a href="https://github.com/mondial7/startups-elements/tree/master/elements/"><i class="material-icons right">launch</i>Elements</a></li>
       </ul>
 
       <ul id="nav-mobile" class="side-nav">
@@ -93,18 +93,15 @@
     </div>
   </nav>
 
-  <div id="index-banner" class="parallax-container">
+  <div id="index-banner" class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
-        <br><br>
-        <h1 class="header center teal-text text-lighten-2">Startups Elements</h1>
+        <!--<br><br>-->
+        <!--<h1 class="header center teal-text text-lighten-2"></h1>-->
         <div class="row center">
-          <h5 class="header col s12">Open source project to collect startups metrics and key information</h5>
+          <a href="https://github.com/mondial7/startups-elements/" id="download-button" class="btn-large waves-effect waves-light cyan">Get Started</a>
         </div>
-        <div class="row center">
-          <a href="https://github.com/mondial7/startups-elements/" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">Get Started</a>
-        </div>
-        <br><br>
+        <!--<br><br>-->
 
       </div>
     </div>
@@ -114,6 +111,10 @@
 
   <div class="container">
     <div class="section">
+
+      <div class="row center">
+        <h5 class="header col s12">Open source project to collect startups metrics and key information</h5>
+      </div>
 
       <!--   Icon Section   -->
       <div class="row">
@@ -128,7 +129,7 @@
 
         <div class="col s12 m6">
           <div class="icon-block">
-            <h2 class="center brown-text"><i class="material-icons">flash</i></h2>
+            <h2 class="center brown-text"><i class="material-icons">trending_up</i></h2>
             <h5 class="center">Improving Performance</h5>
 
             <p class="light">Thanks to a great collection of elements Startuppers would be able to focus on the right information and improve their performance, like validation process, customer discovery.</p>
@@ -143,9 +144,11 @@
   <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
+<!--
         <div class="row center">
           <h5 class="header col s12 light" style="color: #333; text-shadow: 0px 0px 3px #fbfbfb">We need your contribution! We need your help! We need your experience!</h5>
         </div>
+-->
       </div>
     </div>
     <div class="parallax"><img src="./landing-page-images/startupper.jpg" alt="Startupper"></div>
@@ -156,9 +159,8 @@
 
       <div class="row">
         <div class="col s12 center">
-          <h3><i class="mdi-content-send brown-text"></i></h3>
-          <h4>Contact Us</h4>
-          <p class="left-align light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+          <h4>You!</h4>
+          <p class="light">We need your contribution!<br>We need your help!<br>We need your experience!</p>
         </div>
       </div>
 
@@ -169,23 +171,26 @@
   <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
+<!--
         <div class="row center">
-          <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+          <h5 class="header col s12 light"></h5>
         </div>
+-->
       </div>
     </div>
     <div class="parallax"><img src="./landing-page-images/community.jpeg" alt="Community"></div>
   </div>
 
-  <footer class="page-footer teal">
+  <footer class="page-footer cyan">
     <div class="container">
       <div class="row">
         <div class="col l6 s12">
           <h5 class="white-text">Startups Elements</h5>
-          <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
+          <p class="grey-text text-lighten-4">The project has just been started in May '17 by researchers and students @ <a href="https://unibz.it" class="grey-text text-lighten-4" target="_blank">Free University of Bolzano</a>, Italy</p>
 
 
         </div>
+<!--
         <div class="col l3 s12">
           <h5 class="white-text">Settings</h5>
           <ul>
@@ -198,11 +203,12 @@
             <li><a class="white-text" href="#!">Link 1</a></li>
           </ul>
         </div>
+-->
       </div>
     </div>
     <div class="footer-copyright">
       <div class="container">
-      Landingpage made with <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+        <p class="right">Landingpage made with <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a></p>
       </div>
     </div>
   </footer>
