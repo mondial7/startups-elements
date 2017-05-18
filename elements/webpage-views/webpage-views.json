@@ -1,0 +1,32 @@
+{
+  "label" : "webpage-views",
+  "status" : "WIP",
+  "name" : "Webpage Views",
+  "keywords" : "views, website, landing",
+  "about" : "Mostly considered a vanity metric, the insight on the webpage/landing views (sessions, users) might be valuable if fitted into the right analysis.",
+  "contributors" : [
+    {
+      "user" : "mondial7",
+      "link" : "https://github.com/mondial7"
+    }
+  ],
+  "dependencies" : [
+    {
+      "label" : "website-online-status",
+      "link" : "https://github.com/mondial7/startups-elements/blob/master/elements/website-online-status/"
+    }
+
+  ],
+  "categories" : ["product","business"],
+  "stages" : ["validation","growth"],
+  "businessmodel" : ["e-commerce","SaaS","TBD"],
+  "casestudies" : [
+    "story of a startup that actually got some value out of the data collected through the views of its landing page."
+  ],
+  "related" : [
+    {
+      "label" : "retention-rate",
+      "link" : "https://github.com/mondial7/startups-elements/blob/master/elements/retention-rate/"
+    }
+  ]
+}
