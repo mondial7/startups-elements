@@ -1,0 +1,21 @@
+{
+  "label" : "retention-rate",
+  "status" : "WIP",
+  "name" : "Retention Rate",
+  "keywords" : "retention",
+  "about" : "...",
+  "contributors" : [
+    {
+      "user" : "mondial7",
+      "link" : "https://github.com/mondial7"
+    }
+  ],
+  "dependencies" : [],
+  "categories" : ["product","business"],
+  "stages" : ["formation","validation","growth"],
+  "businessmodel" : ["TBD"],
+  "casestudies" : [
+    "..."
+  ],
+  "related" : []
+}
