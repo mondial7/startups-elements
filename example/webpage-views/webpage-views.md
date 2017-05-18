@@ -1,6 +1,9 @@
 # :zap: Webpage Views :zap:
 
 
+:construction:WIP:construction:
+
+
 ## :bulb: About
 
 Mostly considered a vanity metric, the statistics about the webpage/landing of a project might be valuable if fitted into the right analysis.
